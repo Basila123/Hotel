@@ -4,7 +4,7 @@ import java.util.HashMap;
 public class HotelBook {
         HashMap<String ,Hotel> hotels = new HashMap<>();
         /**
-         * This method is used to add hotels to hotel reservation system
+         * This method is used to add hotels to hotel Boook system
          * with all the rates and stored in the hashmap
          */
         public int addHotel() {
